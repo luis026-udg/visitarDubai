@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+    .main-nav {list-style: circle;}
+    body {
+        color: rgb(253, 253, 253);
+        background-color: #0a0802c2;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+  }
